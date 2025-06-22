@@ -1,2 +1,3 @@
 This is main file
 The line is added from remote
+new line added from remote
